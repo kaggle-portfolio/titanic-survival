@@ -1,0 +1,6 @@
+data/
+models/
+*.csv
+*.pkl
+*.log
+__pycache__/
